@@ -1,3 +1,5 @@
+```git clone https://github.com/Vulnpire/4-ZERO-3/;cd 4-ZERO-3;chmod +x 403;mv 403 /usr/bin/403```
+
 [![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)
 ![Follow on Twitter](https://img.shields.io/twitter/follow/Dheerajmadhukar?style=social)
 
